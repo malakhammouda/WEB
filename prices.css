@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  scroll-behavior: smooth;
+  font-optical-sizing: auto;
+}
+
+h2{
+    
+    color: #414694;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 85px;
+}
+span{
+    color: rgba(228, 63, 118, 0.51);
+    
+    font-size:35px;
+    font-weight: 600;
+
+}
+.spann{
+    font-size: 1.3rem;
+}
+.pay{
+    width: 220px;
+    height: 230px;
+    padding: 20px;
+    border: transparent ;
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.578);
+    background-color:#f2eaea;
+    margin: 20px;
+    margin-left: 40px;
+}
+.minicard{
+    width: 120px;
+    height: 40px;
+    padding: 20px;
+    background-color: rgba(228, 63, 118, 0.51);
+    border: transparent ;
+    border-radius: 15px;
+    margin-left: 30px;
+    
+}
+.HH5{
+    
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: -10px;
+    
+   
+    color: #414694;
+    text-align: center;
+
+}
+.pays{
+    display: flex;
+    justify-content: space-evenly;
+}
+.paii{
+    color: rgb(11, 11, 116);
+    font-weight: 400;
+}
+.HH4{
+    color: rgb(241, 211, 41);
+    margin-left: 40px;
+    margin-top: -13px;
+}
